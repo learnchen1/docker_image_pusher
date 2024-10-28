@@ -1,2 +1,1 @@
-prometheus:v2.2.1
 grafana:6.5.3
